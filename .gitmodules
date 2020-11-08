@@ -1,0 +1,4 @@
+[submodule "scientronic92/deltatech_stock_negative"]
+	path = scientronic92/deltatech_stock_negative
+	url = git@github.com:scientronic92/deltatech_stock_negative.git
+	branch = master
