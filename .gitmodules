@@ -2,3 +2,8 @@
 	path = scientronic92/deltatech_stock_negative
 	url = git@github.com:scientronic92/deltatech_stock_negative.git
 	branch = master
+
+[submodule "scientronic92/project_list"]
+	path = scientronic92/project_list
+	url = git@github.com:scientronic92/project_list.git
+	branch = master
