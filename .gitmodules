@@ -7,3 +7,8 @@
 	path = scientronic92/project_list
 	url = git@github.com:scientronic92/project_list.git
 	branch = master
+
+[submodule "scientronic92/sales_customisations"]
+	path = scientronic92/sales_customisations
+	url = git@github.com:scientronic92/sales_customisations.git
+	branch = master
